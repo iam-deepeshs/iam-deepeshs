@@ -2,7 +2,7 @@
 **Aspiring to be an AI Developer**  
 
 - 🌱 I’m currently diving deep into **Gen AI, RAG, and Agentic Workflows**  
-- 📫 How to reach me **[your-email@example.com](mailto:your-email@example.com)**  
+- 📫 How to reach me **[deepeshsriv@gmail.com](deepeshsriv@gmail.com)**  
 
 ## Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/deepeshsr/))  
