@@ -17,7 +17,7 @@
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ⭐⭐⭐⭐⭐ (5/5) |
 
 ### **Most Used Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepeshSrivastava07&layout=compact&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DeepeshSrivastava07&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepeshSrivastava07&show_icons=true&theme=tokyonight)  
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=DeepeshSrivastava07&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
