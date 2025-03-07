@@ -27,6 +27,5 @@
 🏆 **GitHub Trophies** 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iam-deepeshs&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-🫵🏻 **Profile Views**
 ![Profile Views](https://komarev.com/ghpvc/?username=iam-deepeshs&color=blue&style=flat)
 
