@@ -16,11 +16,16 @@
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ⭐⭐⭐☆☆ (3/5) |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ⭐⭐⭐⭐⭐ (5/5) |
 
-### **Most Used Languages**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepeshSrivastava07&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+### **🚀 GitHub Stats & Activity**  
 
-### **GitHub Stats**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepeshSrivastava07&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+🔥 **Most Used Languages**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-deepeshs&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
-### **GitHub Streak**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeepeshSrivastava07&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+⚡ **GitHub Stats**  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-deepeshs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+
+🔥 **GitHub Streak**  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iam-deepeshs&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)  
+
+---
+
