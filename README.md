@@ -29,3 +29,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iam-deepeshs&color=blue&style=flat)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iam-deepeshs&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
