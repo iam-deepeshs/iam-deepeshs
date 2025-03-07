@@ -24,8 +24,4 @@
 ⚡ **GitHub Stats**  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-deepeshs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
-🔥 **GitHub Streak**  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iam-deepeshs&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)  
-
----
 
